@@ -1,0 +1,35 @@
+initParms.uoE = 0.0351833
+initParms.uoL  = 0.0355313
+ initParms.uP = 0.250927
+initParms.Y = 13.2705
+initParms.w = 0.0159764
+initParms.n = 10.4043
+initParms.z1 = 2.30849
+initParms.z2 = 1.20898
+initParms.z3 = 1.03056
+initParms.z4 = 2.44205
+initParms.z5 = 2.64239
+initParms.z6 = 1.97046
+initParms.z7 = 1.45135
+initParms.z8 = 1.43789
+initParms.sf1 = 3.89741
+initParms.sf2 = 3.05438
+initParms.sf3 = 3.39256
+initParms.sf4 = 2.86218
+initParms.sf5 = 3.04502
+initParms.sf6 = 3.41942
+
+initParms.sf7 = 2.33983
+
+initParms.sf8 = 2.7454
+initParms.dE = 0.150604
+initParms.dL = 0.22667
+initParms.dP = 0.883246
+initParms.o = 0.344046
+initParms.tau = 11.9741
+initParms.uM = 0.0890444
+initParms.Mg = 3.81665
+initParms.p = 0.0290409
+initParms.lK = 3.14394e-313
+initParms.lKs = 0
+initParms.lKm = 9.88131e-324

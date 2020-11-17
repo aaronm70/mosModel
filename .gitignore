@@ -1,0 +1,83 @@
+# Prerequisites
+
+*.d
+
+C:\lmodCPP\.vs\
+
+# Compiled Object files
+
+*.slo
+
+*.lo
+
+*.o
+
+*.obj
+
+*.psess
+
+*.sln
+
+*.vcxproj*
+
+x64/
+
+Debug/
+
+release/
+
+/lModCpp/Debug/
+
+/lModCpp/local/
+
+/lModCpp/local2/
+
+/lModCpp/release/
+
+/lModCpp/x64/
+
+# Precompiled Headers
+
+*.gch
+
+*.pch
+
+
+
+# Compiled Dynamic libraries
+
+*.so
+
+*.dylib
+
+*.dll
+
+
+
+# Fortran module files
+
+*.mod
+
+*.smod
+
+
+
+# Compiled Static libraries
+
+*.lai
+
+*.la
+
+*.a
+
+*.lib
+
+
+
+# Executables
+
+*.exe
+
+*.out
+
+*.app
